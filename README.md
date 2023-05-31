@@ -1,2 +1,2 @@
-# Projekt
-Projekt Łukasz Wróblewski 
+Plik wykonywalny:
+projekt/src/controllers/RunController.java
